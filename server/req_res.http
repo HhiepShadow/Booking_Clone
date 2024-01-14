@@ -1,0 +1,7 @@
+POST localhost:8800/api/auth/login
+
+{
+    "userName":"John2",
+    "password":"123456"
+}
+
